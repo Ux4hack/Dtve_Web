@@ -5,7 +5,6 @@
   
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Ux4hack/Dtve_Web/?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Ux4hack/Dtve_Web?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Ux4hack/Dtve_Web?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/Ux4hack/Dtve_Web?color=teal&style=for-the-badge">
