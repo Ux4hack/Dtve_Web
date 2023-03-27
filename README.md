@@ -3,11 +3,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
   <p>&nbsp; </p>
   
-
+[Releases][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <p align="center">
   <img src="https://img.shields.io/github/stars/Ux4hack/Dtve_Web?style=for-the-badge">
-
-[Releases][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
  <img src="https://img.shields.io/github/issues/Ux4hack/Dtve_Web?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/Ux4hack/Dtve_Web?color=teal&style=for-the-badge">
 </p>
