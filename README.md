@@ -4,9 +4,9 @@
   <p>&nbsp; </p>
   
 <p align="center">
-<a href="#"><img title="vistas" src=https://komarev.com/ghpvc/?username=Ux4hack/Dtve_Web&color=FF0000&style=for-the-badge ></a>
+  <img src="https://img.shields.io/github/license/Ux4hack/Dtve_Web?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Ux4hack/Dtve_Web?style=for-the-badge">
- <img src="https://img.shields.io/github/issues/Ux4hack/Dtve_Web?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Ux4hack/Dtve_Web?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/Ux4hack/Dtve_Web?color=teal&style=for-the-badge">
 </p>
 
