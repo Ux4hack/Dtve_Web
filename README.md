@@ -72,7 +72,7 @@ Equipada con herramientas para osint, escaneo y explotación de vulnerabilidades
 * $ pkg install -y git
 * $ cd $HOME
 * $ git clone https://github.com/Ux4hack/Dtve_Web
-* $ cd ~/Dtve_Web
+* $ cd Dtve_Web
 * $ chmod +x *
 * $ bash Dtve_Web
 
