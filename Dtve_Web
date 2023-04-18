@@ -1248,7 +1248,11 @@ echo -e "${R}No disponible!"
 fi
 printf "\n"
 else
+sleep 1
 banner
+echo -e "  ${GR}[${R}*${GR}] ${R}ERROR:${GR} APIs agotadas, espera a que sean actualizadas"
+echo
+exit
 echo -e "             ${GR}╭──> Número érroneo"
 echo -e "  ${GR}[${R}*${GR}] ${R}ERROR:${GR} │──> Número incompleto"
 echo -e "             ${GR}╰──> Verifica buena conexión"
