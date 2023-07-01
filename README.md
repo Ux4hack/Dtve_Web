@@ -57,12 +57,10 @@ Equipada con herramientas para osint, escaneo y explotación de vulnerabilidades
 <br>
 <p align="center">
 <img width="45%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/src/sqlmap.png"/>
-<img width="45%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/src/subdominios.png"/>
-      
+<img width="45%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/src/subdominios.png"/>     
 <p align="center">
 <img width="46%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/src/userscan.png"/>
 <img width="46%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/src/ping.png"/>
-
 <p align="center">
 <img width="46%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/src/ddos.png"/>
 <img width="46%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/src/info.png"/>
