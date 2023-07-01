@@ -79,11 +79,10 @@ Equipada con herramientas para osint, escaneo y explotación de vulnerabilidades
 * $ chmod +x *
 * $ bash Dtve_Web
 
-<h2 align="center"> 🚀 Contactar (Telegram) 🚀 </h2>
+<h2 align="center"> 🚀 Contactar 🚀 </h2>
 
 <p align="center">
 <a href="https://www.facebook.com/Er4NotFound?mibextid=ZbWKwL)"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook"></a>
-<p align="center">
 <a href="https://t.me/Ux4hack"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
 
